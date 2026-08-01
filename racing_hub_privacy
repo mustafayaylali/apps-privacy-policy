@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy — Racing Hub: Idle Tycoon</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 720px; margin: 40px auto; padding: 0 16px; line-height: 1.6; color: #222; }
+    h1, h2 { line-height: 1.25; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>App:</strong> Racing Hub: Idle Tycoon</p>
+  <p><strong>Developer:</strong> Mandg Studio</p>
+  <p><strong>Last updated:</strong> August 2, 2026</p>
+
+  <h2>1. Overview</h2>
+  <p>
+    This Privacy Policy explains how Racing Hub: Idle Tycoon ("the App") handles information.
+    We aim to collect only what is needed to run the game, improve performance, show ads,
+    and provide leaderboard features.
+  </p>
+
+  <h2>2. Information We Collect</h2>
+  <ul>
+    <li><strong>Local game data:</strong> Progress, settings, and preferences stored on your device.</li>
+    <li><strong>Anonymous account data:</strong> An anonymous Firebase user ID used for leaderboard features.</li>
+    <li><strong>Leaderboard data:</strong> Display name and related score/ranking information.</li>
+    <li><strong>Analytics data:</strong> App usage events via Firebase Analytics (for example screen views and gameplay events).</li>
+    <li><strong>Advertising data:</strong> Advertising identifiers and ad interaction data via Google AdMob (for rewarded ads).</li>
+    <li><strong>Purchase-related data:</strong> If/when in-app purchases are enabled, Google Play processes payment information. We do not receive your full payment card details.</li>
+  </ul>
+  <p>We do not require you to create a traditional email/password account to play.</p>
+
+  <h2>3. How We Use Information</h2>
+  <ul>
+    <li>To save and restore your game progress</li>
+    <li>To operate leaderboards</li>
+    <li>To understand app performance and improve gameplay</li>
+    <li>To show rewarded advertisements</li>
+    <li>To process in-app purchases (when available)</li>
+  </ul>
+
+  <h2>4. Third-Party Services</h2>
+  <p>The App may use:</p>
+  <ul>
+    <li>Google Firebase (Authentication, Firestore, Analytics)</li>
+    <li>Google AdMob</li>
+    <li>Google Play services / billing</li>
+  </ul>
+  <p>
+    These services have their own privacy policies. Please review:
+  </p>
+  <ul>
+    <li><a href="https://policies.google.com/privacy">Google Privacy Policy</a></li>
+    <li><a href="https://support.google.com/admob/answer/6128543">AdMob &amp; privacy</a></li>
+    <li><a href="https://firebase.google.com/support/privacy">Firebase Privacy</a></li>
+  </ul>
+
+  <h2>5. Data Storage and Retention</h2>
+  <p>
+    Local progress is stored on your device. Cloud-related data (such as anonymous IDs and
+    leaderboard entries) is stored with Firebase and retained while needed for App functionality
+    or as required by applicable law.
+  </p>
+
+  <h2>6. Children’s Privacy</h2>
+  <p>
+    The App is not directed to children under 13 (or the equivalent minimum age in your country).
+    We do not knowingly collect personal information from children.
+  </p>
+
+  <h2>7. Your Choices</h2>
+  <ul>
+    <li>You can reset/clear app data from your device settings.</li>
+    <li>You can limit ad personalization in your device/Google settings.</li>
+    <li>You can uninstall the App at any time.</li>
+  </ul>
+
+  <h2>8. Contact</h2>
+  <p>
+    Questions about this Privacy Policy:
+    <br />
+    Email: <a href="mailto:mandgstudio.x@gmail.com">mandgstudio.x@gmail.com</a>
+  </p>
+
+  <h2>9. Changes</h2>
+  <p>
+    We may update this Privacy Policy from time to time. The "Last updated" date will be revised
+    when changes are made. Continued use of the App means you accept the updated policy.
+  </p>
+</body>
+</html>
